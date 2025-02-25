@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**ehanson314/ehanson314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Hi all! My name is Eric Hanson and I'm an aspiring web developer! 
 
